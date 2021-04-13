@@ -75,6 +75,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLupica)](https://github.com/JustinLupica/github-readme-stats)
   <img align="left" alt="Justin Lupica's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JustinLupica&show_icons=true&theme=dracula&hide_border=true" />
 
 </details>
