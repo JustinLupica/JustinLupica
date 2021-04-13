@@ -47,9 +47,9 @@
 <br />
 
   <summary>:zap: GitHub Stats</summary>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLupica&theme=dracula" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLupica" style="max-width:100%;">
   <img align="left" alt="Justin Lupica's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JustinLupica&show_icons=true&theme=dracula&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLupica&theme=dracula" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLupica" style="max-width:100%;">
+
 
   <br />
 <br />
