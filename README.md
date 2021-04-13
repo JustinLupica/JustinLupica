@@ -1,6 +1,6 @@
 ### Hi there, I'm Justin! - aka [codeSTACKr][website] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJustin_Lupica&screen_name=Justin_Lupica)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Justin_Lupica?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJustin_Lupica&screen_name=Justin_Lupica)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
