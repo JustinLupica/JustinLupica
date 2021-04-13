@@ -88,5 +88,5 @@
 
 
 [twitter]: https://twitter.com/Justin_Lupica
-[youtube]: https://youtube.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/justin-lupica
+[youtube]: https://youtube.com/channel/UC7Wi-To44LZZFs2GKaSmkeQ
+[linkedin]: https://linkedin.com/in/justin-lupica-124873a2/
