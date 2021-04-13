@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://justinlupica.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/1226162797)
+[<img src="https://novatorem-justinlupica.vercel.app//api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/1226162797)
 
 ### Connect with me:
 
