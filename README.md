@@ -2,12 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Justin_Lupica?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJustin_Lupica&screen_name=Justin_Lupica)
 
-## I'm a Husband, Father, Full-Stack Software Developer, and a grad of the Flatiron School!
+## 👨‍👩‍👦‍👦 I'm a Husband, Father, Full-Stack Software Developer, and a grad of the Flatiron School!
 
-- 🔭 My passion is coding and bringing life to our visions!
-- 🌱 I love React, Javascript and learning more everyday!
-- 👯 I would love to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 💻 I love React, Javascript and learning more everyday!
+- 👯 I would love to collaborate with other developers.
+- 🏈 I am a diehard Cincinnati Bengals fan, and love playing video games and football with my family and friends.
+- 🏝️ One of my favorite things to do is travel and spend time with my family.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I used to be a 3d animator but wanted to learn to code so I could continue to create while also solving problems!
 
 ### Spotify Playing 🎧
@@ -66,18 +67,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-
-</details>
 
 [twitter]: https://twitter.com/Justin_Lupica
 [youtube]: https://youtube.com/channel/UC7Wi-To44LZZFs2GKaSmkeQ
