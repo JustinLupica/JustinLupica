@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Justin_Lupica?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJustin_Lupica&screen_name=Justin_Lupica)
 
-## I'm a Husband, Father, and Developer!!
+## I'm a Husband, Father, Full-Stack Software Developer, and a grad of the Flatiron School!
 
 - 🔭 My passion is coding and bringing life to our visions!
 - 🌱 I love React, Javascript and learning more everyday!
@@ -17,9 +17,11 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+
 [<img align="left" alt="JustinLupica | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JustinLupica | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JustinLupica | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
@@ -50,16 +52,13 @@
   <img align="left" alt="Justin Lupica's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JustinLupica&show_icons=true&theme=dracula&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLupica&theme=dracula" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLupica" style="max-width:100%;">
 
-
   <br />
 <br />
 
-<!-- ### 📺 Latest YouTube Videos -->
+### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
-<!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
 ---
 
@@ -67,10 +66,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -82,10 +77,7 @@
 
 <details>
 
-
 </details>
-
-
 
 [twitter]: https://twitter.com/Justin_Lupica
 [youtube]: https://youtube.com/channel/UC7Wi-To44LZZFs2GKaSmkeQ
