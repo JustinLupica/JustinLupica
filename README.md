@@ -8,12 +8,12 @@
 - 👯 I would love to collaborate with other developers.
 - 🏈 I am a diehard Cincinnati Bengals fan, and love playing video games and football with my family and friends.
 - 🏝️ One of my favorite things to do is travel and spend time with my family.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I used to be a 3d animator but wanted to learn to code so I could continue to create while also solving problems!
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://novatorem-justinlupica.vercel.app//api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/1226162797)
+[<img src="https://novatorem-justinlupica.vercel.app//api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/1226162797) -->
 
 ### Connect with me:
 
