@@ -49,29 +49,12 @@
 <br />
 <br />
 
-  <summary>:zap: GitHub Stats</summary>
+<!--   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Justin Lupica's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JustinLupica&show_icons=true&theme=dracula&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLupica&theme=dracula" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLupica" style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLupica&theme=dracula" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinLupica" style="max-width:100%;"> -->
 
   <br />
 <br />
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
 
 [twitter]: https://twitter.com/Justin_Lupica
 [youtube]: https://youtube.com/channel/UC7Wi-To44LZZFs2GKaSmkeQ
